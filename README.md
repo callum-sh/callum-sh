@@ -1,6 +1,6 @@
 # 🧸 Callum Sharrock
 
-**'Computer Science and Maths Student @ The University of Toronto'**
+**`Computer Science and Maths Student @ The University of Toronto`**
 
 ---
 ### 🧰 Languages and Tools
@@ -21,8 +21,9 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
+---
 
-<!--
+![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?callum-sh=anuraghazra&show_icons=true&theme=radical)<!--
 
 Here are some ideas to get you started:
 
