@@ -20,9 +20,9 @@
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
+<br>
 ---
-
+<br><br><br>
 
 ![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=callum-sh&show_icons=true&theme=default)
 
